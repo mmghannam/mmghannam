@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mo!
+I'm a researcher and engineer based in Berlin, specializing in optimization and vehicle routing.
 
-<!--
-**mmghannam/mmghannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**📈 GitHub Stats**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmghannam&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmghannam&theme=radical)](https://git.io/streak-stats)
+
+---
+
+**🏆 Achievements**
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=mmghannam&theme=radical)
+
+---
+
+📬 **Let's Connect**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-ghannam-a69276b2/)  
+- 📧 Email: ghannam@zib.de
