@@ -5,14 +5,8 @@ I'm a researcher and engineer based in Berlin, specializing in optimization and 
 
 **📈 GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmghannam&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmghannam&theme=radical)](https://git.io/streak-stats)
-
----
-
-**🏆 Achievements**
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=mmghannam&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmghannam&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmghannam)](https://git.io/streak-stats)
 
 ---
 
