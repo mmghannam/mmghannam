@@ -8,7 +8,6 @@ I'm a PhD candidate at Zuse Institute Berlin, working on mixed-integer programmi
 
 **📈 GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmghannam&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mmghannam)](https://git.io/streak-stats)
 
 ---
