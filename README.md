@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mo!
 
-I'm a researcher and engineer based in Berlin, specializing in optimization and vehicle routing.
+I'm a PhD candidate at Zuse Institute Berlin, working on mixed-integer programming solvers and a bunch of things around them.
 
 🌐 **[mghannam.com](https://mghannam.com)**
 
