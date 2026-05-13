@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mo!
-I'm a researcher and engineer based in Berlin, specializing in optimization and vehicle routing.
+I'm a researcher based in Berlin, working on mixed-integer programming.
 
 ---
 
 **📈 GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmghannam&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mmghannam)](https://git.io/streak-stats)
 
 ---
